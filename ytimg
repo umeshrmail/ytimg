@@ -1,1 +1,0 @@
-javascript:(function(){text1 = window.location.href.replace(/app=desktop&/, ""); text2 = text1.replace(/\&.*$/, ""); result = text2.replace(/www.youtube.com\/watch\?v=/i, "i.ytimg.com/vi/"); window.open(result + "/maxresdefault.jpg")})()

@@ -4,4 +4,4 @@ Bookmarklet to open Youtube thumbnail in new tab. Checked on Edge, Chrome and Fi
 - Drag and drop the link in your bookmark/favorite toolbar.
 - When viewing a youtube video click the bookmarklet to open the video's max resolution thumbnail.
 
-[ytimg.html](https://htmlpreview.github.io/?ytimg.html)
+[ytimg.html](https://htmlpreview.github.io/?https://github.com/umeshrmail/ytimg/blob/main/ytimg.html)
